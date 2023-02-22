@@ -10,6 +10,7 @@
   "unreadCommentThreads": 0,
   "color": "#F3F1C7",
   "icon": "bicycle",
+  "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
