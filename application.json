@@ -14,10 +14,10 @@
   "icon": "bicycle",
   "unpublishedCustomJSLibs": [
     {
-      "uidString": "AWS_https://sdk.amazonaws.com/js/aws-sdk-2.410.0.min.js"
+      "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js"
     },
     {
-      "uidString": "jsonwebtoken_/libraries/jsonwebtoken@8.5.1.js"
+      "uidString": "AWS_https://sdk.amazonaws.com/js/aws-sdk-2.410.0.min.js"
     }
   ],
   "publishedCustomJSLibs": [],
