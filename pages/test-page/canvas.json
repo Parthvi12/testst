@@ -1,0 +1,43 @@
+{
+  "unpublishedPage": {
+    "name": "test-page",
+    "slug": "test-page",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 1224,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 580,
+          "containerStyle": "none",
+          "snapRows": 57,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 77,
+          "minHeight": 590,
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "children": []
+        },
+        "layoutOnLoadActions": [],
+        "validOnPageLoadActions": true,
+        "id": "test-page",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": [],
+    "isHidden": false
+  },
+  "deleted": false,
+  "gitSyncId": "6425bfba25b5da42b8566146_6425c04bac9cfe49013b044c"
+}
